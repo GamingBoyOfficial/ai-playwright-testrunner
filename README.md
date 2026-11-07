@@ -1,7 +1,5 @@
 ### 2. README for `ai-playwright-testrunner` (Task 2)
 
-Copy this and paste it directly into the `README.md` file of your second repository:
-
 ```markdown
 # AI-Driven Playwright Test Runner
 
