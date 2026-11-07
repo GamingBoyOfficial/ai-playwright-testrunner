@@ -19,11 +19,13 @@ An autonomous QA testing tool built with Python, Playwright, and the Google Gemi
    ```bash
    git clone [https://github.com/GamingBoyOfficial/ai-playwright-testrunner.git](https://github.com/GamingBoyOfficial/ai-playwright-testrunner.git)
    cd ai-playwright-testrunner
+
 Install dependencies:
 
 Bash
 pip install playwright google-genai
 playwright install
+
 Set your Gemini API key as an environment variable (recommended for security):
 
 PowerShell
